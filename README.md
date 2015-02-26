@@ -1,2 +1,2 @@
 # shingii.github.io
-Testing my first edit.
+Testing my first edit. Acknowedged.
